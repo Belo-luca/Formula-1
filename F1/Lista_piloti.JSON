@@ -1,0 +1,481 @@
+{
+  "Vetture": [
+    {
+      "NomeTeam": "Mercedes-AMG Petronas F1 Team",
+      "Telaio": "W17 E Performance",
+      "PowerUnit": "Mercedes",
+      "SospensioneAnteriore": "Pushrod",
+      "SospensionePosteriore": "Pushrod"
+    },
+    {
+      "NomeTeam": "Scuderia Ferrari HP",
+      "Telaio": "SF-26",
+      "PowerUnit": "Ferrari",
+      "SospensioneAnteriore": "Pushrod",
+      "SospensionePosteriore": "Pullrod"
+    },
+    {
+      "NomeTeam": "Oracle Red Bull Racing",
+      "Telaio": "RB22",
+      "PowerUnit": "Red Bull Ford",
+      "SospensioneAnteriore": "Pushrod",
+      "SospensionePosteriore": "Pullrod"
+    },
+    {
+      "NomeTeam": "McLaren Formula 1 Team",
+      "Telaio": "MCL40",
+      "PowerUnit": "Mercedes",
+      "SospensioneAnteriore": "Pushrod",
+      "SospensionePosteriore": "Pullrod"
+    },
+    {
+      "NomeTeam": "Williams Racing",
+      "Telaio": "FW48",
+      "PowerUnit": "Mercedes",
+      "SospensioneAnteriore": "Pushrod",
+      "SospensionePosteriore": "Pullrod"
+    },
+    {
+      "NomeTeam": "BWT Alpine F1 Team",
+      "Telaio": "A526",
+      "PowerUnit": "Mercedes",
+      "SospensioneAnteriore": "Pushrod",
+      "SospensionePosteriore": "Pullrod"
+    },
+    {
+      "NomeTeam": "Aston Martin Aramco F1 Team",
+      "Telaio": "AMR26",
+      "PowerUnit": "Honda",
+      "SospensioneAnteriore": "Pushrod",
+      "SospensionePosteriore": "Pullrod"
+    },
+    {
+      "NomeTeam": "Haas F1 Team",
+      "Telaio": "VF-26",
+      "PowerUnit": "Ferrari",
+      "SospensioneAnteriore": "Pushrod",
+      "SospensionePosteriore": "Pullrod"
+    },
+    {
+      "NomeTeam": "Audi F1 Team",
+      "Telaio": "R26",
+      "PowerUnit": "Audi",
+      "SospensioneAnteriore": "Pushrod",
+      "SospensionePosteriore": "Pullrod"
+    },
+    {
+      "NomeTeam": "Cadillac Formula 1 Team",
+      "Telaio": "MAC-26",
+      "PowerUnit": "Ferrari",
+      "SospensioneAnteriore": "Pushrod",
+      "SospensionePosteriore": "Pullrod"
+    },
+    {
+      "NomeTeam": "Visa Cash App RB",
+      "Telaio": "VCARB 03",
+      "PowerUnit": "Red Bull Ford",
+      "SospensioneAnteriore": "Pushrod",
+      "SospensionePosteriore": "Pullrod"
+    }
+  ],
+  "Staff": [
+    {
+      "Nome": "Toto",
+      "Cognome": "Wolff",
+      "Ruolo": "Team Principal",
+      "NomeTeam": "Mercedes",
+      "Nazionalita": "Austriaca"
+    },
+    {
+      "Nome": "James",
+      "Cognome": "Allison",
+      "Ruolo": "Chief Engineer",
+      "NomeTeam": "Mercedes",
+      "Nazionalita": "Britannica"
+    },
+    {
+      "Nome": "Frédéric",
+      "Cognome": "Vasseur",
+      "Ruolo": "Team Principal",
+      "NomeTeam": "Ferrari",
+      "Nazionalita": "Francese"
+    },
+    {
+      "Nome": "Loic",
+      "Cognome": "Serra",
+      "Ruolo": "Chief Engineer",
+      "NomeTeam": "Ferrari",
+      "Nazionalita": "Francese"
+    },
+    {
+      "Nome": "Christian",
+      "Cognome": "Horner",
+      "Ruolo": "Team Principal",
+      "NomeTeam": "Red Bull Racing",
+      "Nazionalita": "Britannica"
+    },
+    {
+      "Nome": "Pierre",
+      "Cognome": "Waché",
+      "Ruolo": "Chief Engineer",
+      "NomeTeam": "Red Bull Racing",
+      "Nazionalita": "Francese"
+    },
+    {
+      "Nome": "Andrea",
+      "Cognome": "Stella",
+      "Ruolo": "Team Principal",
+      "NomeTeam": "McLaren",
+      "Nazionalita": "Italiana"
+    },
+    {
+      "Nome": "Rob",
+      "Cognome": "Marshall",
+      "Ruolo": "Chief Engineer",
+      "NomeTeam": "McLaren",
+      "Nazionalita": "Britannica"
+    },
+    {
+      "Nome": "James",
+      "Cognome": "Vowles",
+      "Ruolo": "Team Principal",
+      "NomeTeam": "Williams",
+      "Nazionalita": "Britannica"
+    },
+    {
+      "Nome": "Pat",
+      "Cognome": "Fry",
+      "Ruolo": "Chief Engineer",
+      "NomeTeam": "Williams",
+      "Nazionalita": "Britannica"
+    },
+    {
+      "Nome": "Oliver",
+      "Cognome": "Oakes",
+      "Ruolo": "Team Principal",
+      "NomeTeam": "Alpine",
+      "Nazionalita": "Britannica"
+    },
+    {
+      "Nome": "David",
+      "Cognome": "Sanchez",
+      "Ruolo": "Chief Engineer",
+      "NomeTeam": "Alpine",
+      "Nazionalita": "Francese"
+    },
+    {
+      "Nome": "Mike",
+      "Cognome": "Krack",
+      "Ruolo": "Team Principal",
+      "NomeTeam": "Aston Martin",
+      "Nazionalita": "Lussemburghese"
+    },
+    {
+      "Nome": "Adrian",
+      "Cognome": "Newey",
+      "Ruolo": "Chief Engineer",
+      "NomeTeam": "Aston Martin",
+      "Nazionalita": "Britannica"
+    },
+    {
+      "Nome": "Ayao",
+      "Cognome": "Komatsu",
+      "Ruolo": "Team Principal",
+      "NomeTeam": "Haas",
+      "Nazionalita": "Giapponese"
+    },
+    {
+      "Nome": "Andrea",
+      "Cognome": "De Zordo",
+      "Ruolo": "Chief Engineer",
+      "NomeTeam": "Haas",
+      "Nazionalita": "Italiana"
+    },
+    {
+      "Nome": "Jonathan",
+      "Cognome": "Wheatley",
+      "Ruolo": "Team Principal",
+      "NomeTeam": "Audi",
+      "Nazionalita": "Britannica"
+    },
+    {
+      "Nome": "Mattia",
+      "Cognome": "Binotto",
+      "Ruolo": "Chief Engineer",
+      "NomeTeam": "Audi",
+      "Nazionalita": "Italiana"
+    },
+    {
+      "Nome": "Michael",
+      "Cognome": "Andretti",
+      "Ruolo": "Team Principal",
+      "NomeTeam": "Cadillac",
+      "Nazionalita": "Americana"
+    },
+    {
+      "Nome": "Nick",
+      "Cognome": "Chester",
+      "Ruolo": "Chief Engineer",
+      "NomeTeam": "Cadillac",
+      "Nazionalita": "Britannica"
+    },
+    {
+      "Nome": "Laurent",
+      "Cognome": "Mekies",
+      "Ruolo": "Team Principal",
+      "NomeTeam": "Racing Bulls",
+      "Nazionalita": "Francese"
+    },
+    {
+      "Nome": "Jody",
+      "Cognome": "Egginton",
+      "Ruolo": "Chief Engineer",
+      "NomeTeam": "Racing Bulls",
+      "Nazionalita": "Britannica"
+    }
+  ],
+  "Piloti": [
+    {
+      "Posizione": 0,
+      "Pilota": "George Russell",
+      "Squadra": "Mercedes",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Britannica",
+      "NumeroGara": 63
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Andrea Kimi Antonelli",
+      "Squadra": "Mercedes",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Italiana",
+      "NumeroGara": 12
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Charles Leclerc",
+      "Squadra": "Ferrari",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Monegasca",
+      "NumeroGara": 16
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Lewis Hamilton",
+      "Squadra": "Ferrari",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Britannica",
+      "NumeroGara": 44
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Max Verstappen",
+      "Squadra": "Red Bull Racing",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Olandese",
+      "NumeroGara": 1
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Isack Hadjar",
+      "Squadra": "Red Bull Racing",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Francese",
+      "NumeroGara": 6
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Lando Norris",
+      "Squadra": "McLaren",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Britannica",
+      "NumeroGara": 4
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Oscar Piastri",
+      "Squadra": "McLaren",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Australiana",
+      "NumeroGara": 81
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Alexander Albon",
+      "Squadra": "Williams",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Thailandese",
+      "NumeroGara": 23
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Carlos Sainz",
+      "Squadra": "Williams",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Spagnola",
+      "NumeroGara": 55
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Pierre Gasly",
+      "Squadra": "Alpine",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Francese",
+      "NumeroGara": 10
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Franco Colapinto",
+      "Squadra": "Alpine",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Argentina",
+      "NumeroGara": 43
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Fernando Alonso",
+      "Squadra": "Aston Martin",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Spagnola",
+      "NumeroGara": 14
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Lance Stroll",
+      "Squadra": "Aston Martin",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Canadese",
+      "NumeroGara": 18
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Esteban Ocon",
+      "Squadra": "Haas",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Francese",
+      "NumeroGara": 31
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Oliver Bearman",
+      "Squadra": "Haas",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Britannica",
+      "NumeroGara": 87
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Nico Hulkenberg",
+      "Squadra": "Audi",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Tedesca",
+      "NumeroGara": 27
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Gabriel Bortoleto",
+      "Squadra": "Audi",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Brasiliana",
+      "NumeroGara": 5
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Sergio Perez",
+      "Squadra": "Cadillac",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Messicana",
+      "NumeroGara": 11
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Valtteri Bottas",
+      "Squadra": "Cadillac",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Finlandese",
+      "NumeroGara": 77
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Liam Lawson",
+      "Squadra": "Racing Bulls",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Neozelandese",
+      "NumeroGara": 30
+    },
+    {
+      "Posizione": 0,
+      "Pilota": "Arvid Lindblad",
+      "Squadra": "Racing Bulls",
+      "Punti": 0,
+      "Vittorie": 0,
+      "Podio": 0,
+      "Giri Veloci": 0,
+      "Nazionalita": "Britannica",
+      "NumeroGara": 41
+    }
+  ]
+}
